@@ -21,6 +21,7 @@ Base: [https://github.com/bleu48/GoGo](https://github.com/bleu48/GoGo)
 
 ## 感想
 
+* adminmatch を使う場合でも、手番の色はちゃんと指定する必要がある
 * 400手の時点で　勝敗表示が欲しい。パスパスのとき使う（なければ審判判断）
   * あれば自分から見た勝敗
   * あれば勝率

@@ -14,6 +14,9 @@ func PlayComputerMove(position *be.Position, color int, fUCT int, createBoardStr
 	var tIdx int
 	st := time.Now()
 	tbe.AllPlayouts = 0
+	// 3 だと時間切れしてしまう。
+	// 2 だと時間は切れないが長く指してしまう。
+	// 1 だと 400手で負け。
 	tryNum := 2
 	tIdx = tbe.PrimitiveMonteCalro(position, color, createBoardString, tryNum)
 	sec := time.Since(st).Seconds()
