@@ -24,3 +24,4 @@ Base: [https://github.com/bleu48/GoGo](https://github.com/bleu48/GoGo)
   * あれば勝率
   * あればコミを入れた目数差
   * 残り時間を 何分何秒で表示して欲しい。
+* 対局が終わるごとに、ログファイルを 退避してバックアップさせたい
