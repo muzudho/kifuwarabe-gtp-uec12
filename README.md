@@ -8,6 +8,8 @@ Base: [https://github.com/bleu48/GoGo](https://github.com/bleu48/GoGo)
 
 ## Documents
 
+[Goのインストール](https://github.com/muzudho/hello-golang/blob/main/doc/installation/install.md)  
+
 * Set up
   * [on Windows](./doc/set-up-app-on-windows.md)
 * Run
