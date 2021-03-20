@@ -8,7 +8,11 @@ github.com/muzudho/kifuwarabe-go-think-base v0.0.0-20210317114016-96081ccf96ec h
 github.com/muzudho/kifuwarabe-go-think-base v0.0.0-20210317114016-96081ccf96ec/go.mod h1:VjuTu6kjQikKGfJrFePNepbJMJfd6ZqP2S59cEh3FdQ=
 github.com/muzudho/kifuwarabe-go-think-base v0.0.0-20210317115012-14dba3b1bafe h1:eQQSnyCkb6AppdfUy1Fv7g+RfK/S4MdJ37S54aultSM=
 github.com/muzudho/kifuwarabe-go-think-base v0.0.0-20210317115012-14dba3b1bafe/go.mod h1:MD6Bf/0s39hEy2IzT+cOspqKUkUVbaUHeFss9aHhF7I=
+github.com/muzudho/kifuwarabe-go-think-base v0.0.0-20210320061319-bd8d19ab34f9 h1:p80c6VDyhNm9WLmONrJkRFTNVZkMRE6fsC3zdYI3O+0=
+github.com/muzudho/kifuwarabe-go-think-base v0.0.0-20210320061319-bd8d19ab34f9/go.mod h1:MD6Bf/0s39hEy2IzT+cOspqKUkUVbaUHeFss9aHhF7I=
 github.com/muzudho/kifuwarabe-go-view-base v0.0.0-20210317133829-ab1fec77e18e h1:eIbS9UXL11OP13y4n+4fGY3kPniBwwMxQ5ydTtSYxp0=
 github.com/muzudho/kifuwarabe-go-view-base v0.0.0-20210317133829-ab1fec77e18e/go.mod h1:zVd0BPi2A47bHXfj34iPr8N5glYIon3yCk1bUIE4so4=
+github.com/muzudho/kifuwarabe-go-view-base v0.0.0-20210317134143-7e0521ab9610 h1:7JKaaUZW8wErweuMs7MfOzcbyXoqFNoZ7GG+EM9877E=
+github.com/muzudho/kifuwarabe-go-view-base v0.0.0-20210317134143-7e0521ab9610/go.mod h1:WgygxhEm/UfBZun82EHBSKbSHZ/olULLEmwj0ygsAtM=
 github.com/pelletier/go-toml v1.8.1 h1:1Nf83orprkJyknT6h7zbuEGUEjcyVlCxSUGTENmNCRM=
 github.com/pelletier/go-toml v1.8.1/go.mod h1:T2/BmBdy8dvIRq1a/8aqjN41wvWlN4lrapLU/GW4pbc=
